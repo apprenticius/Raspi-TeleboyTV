@@ -7,6 +7,6 @@ Using HDMI-CEC it is possible to change channels with remote control of your TV.
 
 Prerequisites
   - Raspberry Pi 4B with Raspbian OS
-  - MPV player installed
+  - MPV player installed on Raspberry Pi
   - User Account with Teleboy TV
 
