@@ -14,3 +14,5 @@ Prerequisites
 The channel list is used as the list of channels in the virtual vcr.
 
 Finnally one have to enable auto start of the script virtual_vcr.py. Therefore one copies the file virtual_vcr.desktop to the folder /etc/xdg/autostart.
+
+Don't forget to edit user and password in virtual_vcr.py!
