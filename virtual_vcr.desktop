@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=TeleboyTV Player
+Path=/home/raspberry
+Exec=python3 -u /home/raspberry/virtual_vcr.py
+Terminal=true
