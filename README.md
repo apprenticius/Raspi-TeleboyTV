@@ -9,4 +9,8 @@ Prerequisites
   - Raspberry Pi 4B with Raspbian OS
   - MPV player installed on Raspberry Pi
   - User Account with Teleboy TV
+  - Edit your channel list under https://www.teleboy.ch/sender
 
+The channel list is used as the list of channels in the virtual vcr.
+
+Finnally one have to enable auto start of the script virtual_vcr.py. Therefore one copies the file virtual_vcr.desktop to the folder /etc/xdg/autostart.
