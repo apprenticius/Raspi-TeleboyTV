@@ -3,7 +3,7 @@ TeleboyTV with Raspberry Pi 4B
 
 It simulates a web browser on one side and a TV recorder on the other side.
 
-Using HDMI-CEC it is possible to change channels with remote control of your TV. Furthermore for the power consumption the Raspberry Pi uses the USB port from the television.
+Using HDMI-CEC it is possible to change channels with remote control of your TV. Furthermore for the power consumption the Raspberry Pi uses the USB port of the television.
 
 Prerequisites
   - Raspberry Pi 4B with Raspbian OS
